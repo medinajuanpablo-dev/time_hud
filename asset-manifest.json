@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/time_hud/static/css/main.461a0c5c.css",
-    "main.js": "/time_hud/static/js/main.5e2c6311.js",
+    "main.js": "/time_hud/static/js/main.974535fc.js",
     "index.html": "/time_hud/index.html",
     "main.461a0c5c.css.map": "/time_hud/static/css/main.461a0c5c.css.map",
-    "main.5e2c6311.js.map": "/time_hud/static/js/main.5e2c6311.js.map"
+    "main.974535fc.js.map": "/time_hud/static/js/main.974535fc.js.map"
   },
   "entrypoints": [
     "static/css/main.461a0c5c.css",
-    "static/js/main.5e2c6311.js"
+    "static/js/main.974535fc.js"
   ]
 }
